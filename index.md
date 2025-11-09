@@ -1,5 +1,6 @@
 Angela Hu, a4hu@ucsd.edu
 B19, Phi Nguyen, Chuck Hahm, Fatemeh Aarabi 
+
 **What is the most interesting topic covered in your domain this quarter?**
 The most interesting topic covered in my domain was the anatomy of the power pole, because it helped me understand how electricity travels throughout the city. For the different lines, there are different voltage strengths which not only determines their function in the power grid but also affects the level of safety precautions required when working near them. 
 
